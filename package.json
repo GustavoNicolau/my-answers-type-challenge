@@ -1,0 +1,16 @@
+{
+  "name": "problems-type-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gustavo Nicolau <gustavonicolaump@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@type-challenges/utils": "^0.1.1",
+    "ts-node": "^10.5.0",
+    "typescript": "^4.5.5"
+  }
+}
