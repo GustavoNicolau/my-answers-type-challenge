@@ -1,7 +1,3 @@
-
-
-
-/* _____________ Test Cases _____________ */
 import { Equal, Expect } from '@type-challenges/utils'
 
 type MyPick<T, K extends keyof T> = { [P in K]: T[P] }
